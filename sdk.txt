@@ -1,3 +1,5 @@
 SDK!!!
 
 This shouldn't be presented
+
+Bug fix for 3.0.1
